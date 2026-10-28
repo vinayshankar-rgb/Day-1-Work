@@ -60,3 +60,6 @@ Use code with caution.
 * Set up a multi-file project workspace inside VS Code.
 * Implemented web interface components utilizing the Streamlit framework.
 * Initialized local Git version tracking and established connection to the remote repository.
+
+  <img width="1831" height="892" alt="image" src="https://github.com/user-attachments/assets/c1f33124-db1b-4ea8-9254-fadbcce36218" />
+
