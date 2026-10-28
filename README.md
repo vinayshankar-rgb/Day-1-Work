@@ -51,7 +51,7 @@ Use code with caution.
 ### 📁 Repository Overview
 
 * **app.py**: The primary application file containing the production Streamlit code, UI components, and interactive logic.
-* **demo1.py**: A playground/testing script used during the initial workshop steps to practice Python syntax and experiment with baseline Streamlit functionalities.
+
 * **.gitignore**: Configuration file designed to prevent tracking massive local dependencies (.env/) and editor configurations (.vscode/), keeping the repository lean.
 
 ### 💻 What Was Accomplished (Day 1)
